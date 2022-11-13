@@ -1,6 +1,6 @@
 - Hello, I’m XeroZon or lil
 - I’m currently working on Dragon Block Apollo
-- Patch 1.2.6b, developement underway.
+- Movie Pack #3 Development beginning...
 
 <!---
 XeroZon/XeroZon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
