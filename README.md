@@ -1,8 +1,3 @@
 - Hello, I’m XeroZon or lil
 - I’m currently working on Dragon Block Apollo
-- Movie Pack #3 Development underway
-
-<!---
-XeroZon/XeroZon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Combat Update Development underway
